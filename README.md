@@ -1,2 +1,2 @@
 # EDA-on-movie-dataset
-This repository contains an exploratory data analysis (EDA) on a movie dataset.
+This repository contains an exploratory data analysis (EDA) on a movie dataset, where various techniques are applied to uncover insights. The analysis includes handling missing values, detecting outliers, and visualizing the distribution of key variables like ratings, votes, and gross earnings using histograms, scatter plots, and boxplots. Correlations between features are examined through a heatmap, and the relationships between categorical and numerical variables are explored. The goal is to gain a deeper understanding of the dataset's structure and identify trends or patterns that may inform further analysis or modeling.
